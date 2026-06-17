@@ -8,8 +8,8 @@
   "api_bg": "https://nusaiptv.serv00.net/background.php",
   "api_release": "https://nusaiptv.serv00.net/release.json",
   "fallback_urls": [],
-  "maintenance": false,
-  "maintenance_message": "",
+  "maintenance": true,
+  "maintenance_message": "memek",
   "min_version": 110,
   "force_update_message": ""
 }
